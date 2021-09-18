@@ -1,6 +1,6 @@
 name: sa3_liquid
 description: Liquid implementation from simple_animations 3.x
-version: 1.0.0-alpha.1
+version: 1.0.0
 homepage:
 
 environment:
