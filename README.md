@@ -2,7 +2,7 @@
 
 Implementation of the **liquid** feature of Simple Animation 3.x package.
 
-Use [liquid-studio](liquid-studio) website to configure a Plasma widget.
+Use [liquid-studio](https://felixblaschke.github.io/sa3_liquid/) website to configure a Plasma widget.
 
 You can watch this website by serving it, e.g. with nodeJS:
 
